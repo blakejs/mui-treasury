@@ -96,4 +96,4 @@ export default StandardLayout;
 
 7. remove `@mui-treasury/mockup` from `package.json` & `next.config.js` once you are ready for development
 
-#### For more examples & how to use, visit [mui-treasury/layout](https://mui-treasury/layout)
+#### For more examples & how to use, visit [mui-treasury/layout](https://mui-treasury.com/layout)
